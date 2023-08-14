@@ -1,2 +1,2 @@
-# odin-project
-Bootcamp from "The Odin Project"
+# Odin Recipes
+Foundation project from "The Odin Project" bootcamp.
