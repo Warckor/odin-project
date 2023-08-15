@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color: white;
+    background: royalblue;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    background: lightpink;
+    margin: 20px 50px;
+}
+
+p {
+    margin: 0 70px; 
+}
+
+.ingredients, .steps {
+    display: flex;
+    flex-direction: column;
+}
+
+.ingredients li, .steps li {
+    margin: 0 70px 4px 50px;
+}
+
+.recipe-image {
+    width: 300px;
+    height: auto;
+    align-self: center;
+}
